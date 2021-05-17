@@ -7,22 +7,22 @@
         
         {
           "name": "PreSpark 0",
-          "value" : 30
+          "value" : 3
           
         },
         {
           "name": "PreSpark 1",
-          "value" : 10
+          "value" : 5
           
         },
         {
           "name": "PreSpark 2",
-          "value" : 40
+          "value" : 6
           
         },
         {
           "name": "PreSpark 3",
-          "value" : 20
+          "value" : 8
           
         }
         ]
@@ -38,22 +38,22 @@
         
         {
           "name": "PostSpark 0",
-          "value" : 10
+          "value" : 8
           
         },
         {
           "name": "PostSpark 1",
-          "value" : 20
+          "value" : 5
           
         },
         {
           "name": "PostSpark 2",
-          "value" : 30
+          "value" : 4
           
         },
         {
           "name": "PostSpark 3",
-          "value" : 20
+          "value" : 2
           
         }
         ]
