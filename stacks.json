@@ -2,58 +2,58 @@
   "children": [
     {
       "name": "Prespark",
-      "value": 22,
+      "runTime": 22,
       "children":[
         
         {
           "name": "PreSpark 0",
-          "value" : 3
+          "runTime" : 3
           
         },
         {
           "name": "PreSpark 1",
-          "value" : 5
+          "runTime" : 5
           
         },
         {
           "name": "PreSpark 2",
-          "value" : 6
+          "runTime" : 6
           
         },
         {
           "name": "PreSpark 3",
-          "value" : 8
+          "runTime" : 8
           
         }
         ]
     },
     {
       "name": "Moana",
-      "value": 10
+      "runTime": 10
     },
     {
       "name": "PostSpark",
-      "value": 19,
+      "runTime": 19,
       "children":[
         
         {
           "name": "PostSpark 0",
-          "value" : 8
+          "runTime" : 8
           
         },
         {
           "name": "PostSpark 1",
-          "value" : 5
+          "runTime" : 5
           
         },
         {
           "name": "PostSpark 2",
-          "value" : 4
+          "runTime" : 4
           
         },
         {
           "name": "PostSpark 3",
-          "value" : 2
+          "runTime" : 2
           
         }
         ]
