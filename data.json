@@ -1,63 +1,156 @@
 {
+  "name":"root",
+  "value":1219000,
   "children": [
     {
-      "name": "Prespark",
-      "value": 22,
-      "children":[
-        
+      "name": "Queuetime",
+      "value":46000,
+      "children": [
         {
-          "name": "PreSpark 0",
-          "value" : 3
-          
+          "name": "Prespark ",
+          "value": 27000,
+          "children":[
+            {
+              "name": "PreSpark",
+              "value" : 0
+              
+            },
+            {
+              "name": "PreSpark 0",
+              "value" : 2000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 1",
+              "value" : 3000,
+              "time": "2021-05-10 11:31:41"
+    
+              
+            },
+            {
+              "name": "PreSpark 2",
+              "value" : 4000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 3",
+              "value" : 4000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 4",
+              "value" : 5000,
+              "time": "2021-05-10 11:31:42"
+              
+            },
+            {
+              "name": "PreSpark 5",
+              "value" : 9000,
+              "time": "2021-05-10 11:31:42"
+              
+            }
+            
+            ]
         },
         {
-          "name": "PreSpark 1",
-          "value" : 5
-          
+          "name": "Moana",
+          "value": 18000,
+          "time": "2021-05-10 11:32:33"
         },
         {
-          "name": "PreSpark 2",
-          "value" : 6
-          
-        },
-        {
-          "name": "PreSpark 3",
-          "value" : 8
+          "name": "PostSpark",
+          "value": 1000,
+          "children":[
+            
+            {
+              "name": "PostSpark 0",
+              "runTime" : 1000,
+              "time": "2021-05-10 11:37:50"
+              
+            }
+            ]
           
         }
-        ]
+      ]
     },
     {
-      "name": "Moana",
-      "value": 10
-    },
-    {
-      "name": "PostSpark",
-      "value": 19,
-      "children":[
-        
+      "name": "Runtime",
+      "value":1173000,
+      "children": [
         {
-          "name": "PostSpark 0",
-          "value" : 8
-          
+          "name": "Prespark ",
+          "value": 150000,
+          "children":[
+            {
+              "name": "PreSpark",
+              "value" : 52000
+              
+            },
+            {
+              "name": "PreSpark 0",
+              "value" : 2000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 1",
+              "value" : 49000,
+              "time": "2021-05-10 11:31:41"
+    
+              
+            },
+            {
+              "name": "PreSpark 2",
+              "value" : 1000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 3",
+              "value" : 43000,
+              "time": "2021-05-10 11:31:41"
+              
+            },
+            {
+              "name": "PreSpark 4",
+              "value" : 2000,
+              "time": "2021-05-10 11:31:42"
+              
+            },
+            {
+              "name": "PreSpark 5",
+              "value" : 1000,
+              "time": "2021-05-10 11:31:42"
+              
+            }
+            
+            ]
         },
         {
-          "name": "PostSpark 1",
-          "value" : 5
-          
+          "name": "Moana",
+          "value": 316000,
+          "time": "2021-05-10 11:32:33"
         },
         {
-          "name": "PostSpark 2",
-          "value" : 4
-          
-        },
-        {
-          "name": "PostSpark 3",
-          "value" : 2
+          "name": "PostSpark",
+          "value": 707000,
+          "children":[
+            
+            {
+              "name": "PostSpark 0",
+              "runTime" : 707000,
+              "time": "2021-05-10 11:37:50"
+              
+            }
+            ]
           
         }
-        ]
-      
+      ]
     }
+    
+
   ]
-}
+} 
